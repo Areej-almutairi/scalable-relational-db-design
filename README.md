@@ -1,10 +1,8 @@
 # Twitter Database Project (MySQL)
 
 ## Overview
-This project demonstrates a *relational database* design for a Twitter-like system, created using *MySQL Workbench*.  
-It includes four main tables and their relationships, simulating users, tweets, likes, and follows.  
-
-*Note:* This project is for training purposes only — all data is fictitious and randomly generated.
+A fully relational Twitter-like database system designed and implemented using MySQL.
+This project demonstrates advanced relational database modeling, foreign key relationships, stored procedures, and secure password encryption using SHA2 with Salt.
 
 ---
 
@@ -24,6 +22,17 @@ Foreign keys are used to maintain relationships between tables.
 - Automatic timestamp for tweet creation
 - Password encryption using *SHA2 + Salt*
 - Data insertion for *Likes* and *Follows* handled via INSERT statements
+
+---
+
+## Skills Demonstrated
+- Relational Database Design
+- ER Modeling
+- Foreign Key Constraints
+- Stored Procedures
+- Many-to-Many Relationships
+- Self-Referencing Tables
+- Password Hashing (SHA2 + Salt)
 
 ---
 
