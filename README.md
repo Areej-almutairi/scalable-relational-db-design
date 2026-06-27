@@ -1,4 +1,4 @@
-# Twitter Database Project (MySQL)
+# Enterprise-Grade Relational Database Design (Scalable Micro-Blogging Architecture)
 
 ## Overview
 A fully relational Twitter-like database system designed and implemented using MySQL.
