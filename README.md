@@ -1,7 +1,7 @@
 # Enterprise-Grade Relational Database Design (Scalable Micro-Blogging Architecture)
 
 ## Overview
-A fully relational Twitter-like database system designed and implemented using MySQL.
+A fully relational database system designed and implemented using MySQL.
 This project demonstrates advanced relational database modeling, foreign key relationships, stored procedures, and secure password encryption using SHA2 with Salt.
 
 ---
