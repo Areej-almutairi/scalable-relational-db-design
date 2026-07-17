@@ -34,15 +34,15 @@ The system is architected around a normalized relational model designed to handl
 
 ###  Entity-Relationship (ER) Diagram
 *The relational mapping exhibiting structural optimization and table connections.*
-![ER Diagram](screenshots/er_diagram.png)
+![ER Diagram](Screenshots/er_diagram.png)
 
 ###  User Records & Transactions
 *Granular view of the generated schema testing user registration datasets.*
-![Users Table](screenshots/users_table.png)
+![Users Table](Screenshots/users_table.png)
 
 ###  Executing Stored Procedures
 *Live demonstration of executing operational queries inside MySQL Workbench.*
-![Procedure Execution](screenshots/stored_procedure.png)
+![Procedure Execution](Screenshots/stored_procedure.png)
 
 ---
 
